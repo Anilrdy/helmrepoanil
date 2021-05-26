@@ -3,7 +3,7 @@ entries:
   mytestdep:
   - apiVersion: v2
     appVersion: 2.16.0
-    created: "2021-05-24T16:40:20.604967826Z"
+    created: "2021-05-26T15:25:44.948606759Z"
     description: A Helm chart for Kubernetes
     digest: 0ff32a91ba47198afa281c96fb642c86ba9bcc50968e608f22e3c5ae30dec8ea
     name: mytestdep
@@ -13,7 +13,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-24T16:40:20.604662679Z"
+    created: "2021-05-26T15:25:44.947869169Z"
     description: A Helm chart for Kubernetes
     digest: 833135f680d4c33e2bc893e89f1a021e8175f7bd8ab7503979571f015a7b5bf8
     name: mytestdep
@@ -24,12 +24,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-24T16:40:20.605217342Z"
+    created: "2021-05-26T15:25:44.948845202Z"
     description: A Helm chart for Kubernetes
-    digest: 79d8042c2e74fc666780ea21b97e8dd8b1927d9c23b0f51b135d700f8ed3c864
+    digest: c320f793f4dee8c0d3951927cc5cd79dcaacf67c1bd594d6bb3505a0219c6798
     name: nginx
     type: application
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-24T16:40:20.60422137Z"
+generated: "2021-05-26T15:25:44.946818819Z"
